@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+# sample + generated outputs
+sample.pdf
+sample.epub
+*.epub
+*.mobi
+*.kepub.epub
+.DS_Store
