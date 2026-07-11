@@ -8,3 +8,6 @@ sample.epub
 *.mobi
 *.kepub.epub
 .DS_Store
+# private: contains personal Kindle email + Drive folder IDs — never publish
+kindle_pipeline.py
+pipeline.log
